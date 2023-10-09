@@ -1,0 +1,23 @@
+Cirulo def por centro e raio
+Tarefas:
+		calcular perimetro ou area
+		saber se ponto pertence ao circulo
+		descobrir relacao entre dois circulos
+Programa:
+		define um circulo
+		define um comando
+Definicao do circulo:
+		(coordenadas do centro em X)
+		(coordenadas do centro em Y)
+		(raio do circulo - sempre positivo)
+Definicao do comando:
+		(P - perimetro)
+			output - Perimeter: K
+		(A - area)
+			output - Area: K
+		(LP x1 y1 - check point with circle)
+			output - The point belongs to the circle ^^ The point does not belong to the circle
+		(LC x1 y1 r1 - check circle with circle)
+			output - The first circle cointains the second one
+					The first circle intersects part of the second one
+					The first circle does not intersect the second one
